@@ -1,11 +1,4 @@
 ### Hi there 👋
-<h1>heading</h1>
-<a id="sdabjewfwbuojbuo"href="#">link</a>
-<style>
-#sdabjewfwbuojbuo {
-  color: red;
-  }
-</style>
 <!--
 **Adam-Clrk/Adam-Clrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
